@@ -1,0 +1,3 @@
+/app/programmes/__pycache__/*
+/app/programmes/chiffrerEmail.py 
+/app/programmes/mdp.py

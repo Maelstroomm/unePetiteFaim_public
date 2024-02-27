@@ -1,0 +1,22 @@
+Politique de confidentialité :
+
+	La présente politique de confidentialité décrit comment nous collectons, utilisons et protégeons les informations personnelles, y compris les adresses e-mail, que vous nous fournissez. Nous nous engageons à protéger votre vie privée. Veuillez lire attentivement cette politique pour comprendre nos pratiques concernant vos informations personnelles.
+
+	Les informations recueillies sur cette application sont enregistrées dans un fichier informatisé.
+
+	Nous collectons quatre types d'informations : votre identifiant, mot de passe, adresse e-mail et l'ensemble des données que vous fournirez pour concevoir vos recettes. 
+
+	L'application étant une plateforme de partage, vos recettes seront communiquées aux autres utilisateurs et vous serez identifié en tant qu'auteur via votre identifiant. Nous collectons les adresses e-mail dans le but de vous permettre de continuer à utiliser notre application en cas de perte de vos identifiants. Celles-ci ne sont exploitées qu'en cas de sollicitation de votre part. Nous recueillons ces dernières de manière légale et transparente, avec votre consentement. Vos adresses e-mail ne seront en aucun cas divulguées avec des tiers. Vous avez également le droit de vous rétracter et de supprimer votre compte, dès lors, l'ensemble des renseignements enregistrés lors de votre inscription (identifiant, mot de passe, adresse e-mail) seront effacés de notre base de données. Vos recettes, quant à elles, seront anonymisées. Vos données sont conservées jusqu'à suppression de votre compte.
+
+	 Une sécurité a été mise en place. Cependant, nous vous conseillons tout de même de ne pas exploiter votre adresse e-mail principale. De plus, nous vous invitons à enregistrer un mot de passe sans antécédents.  
+
+ 	Nous nous réservons le droit de modifier cette politique de confidentialité à tout moment. Toute modification sera effective dès sa publication sur notre application. Par ailleurs, vous serez prévenu lors de chaque ajustement.
+
+Nous contacter :
+
+	Si vous avez des questions concernant cette politique de confidentialité ou si vous souhaitez exercer vos droits en matière de protection des données, veuillez nous contacter à l'adresse suivante : unepetitefaim.mb.ap@gmail.com
+
+	Consultez le site cnil.fr pour plus d’informations sur vos droits.
+Si vous estimez, après nous avoir contactés, que vos droits « Informatique et Libertés » ne sont pas respectés, vous pouvez adresser une réclamation à la CNIL.
+
+Nous vous remercions pour votre confiance et de votre compréhension quant à notre engagement à respecter votre vie privée.
